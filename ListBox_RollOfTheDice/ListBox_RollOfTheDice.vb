@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Roll of the Dice- List box
-'https://github.com/jmcarth4/
+'https://github.com/jmcarth4/ListBox_RollOfTheDice.git
 
 Public Class ListBox_RollOfTheDice
 
